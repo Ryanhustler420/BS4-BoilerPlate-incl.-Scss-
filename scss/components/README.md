@@ -1,0 +1,3 @@
+##### Component
+
+> This directory should have code for each component like, button, card, form, popup etc....
